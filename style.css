@@ -1,0 +1,65 @@
+body{
+	font-family: 'Oswald', sans-serif;
+    color:purple;
+}
+header{
+	background-color: #D1C9DA;
+}
+ul{
+	list-style: none;
+	text-align: center;
+}
+img{
+	max-width: 200px;
+}
+li{
+   
+}
+h1{
+	text-align: center;
+}
+p{
+	color:;
+	text-align: center;
+}
+li {
+	padding: 15px;
+	margin-top: 30px;
+}
+#menu1:hover{
+	background-color: aqua;
+}
+#menu2:hover{
+	background-color: green;
+}
+#menu3:hover{
+	background-color: blue;
+}
+#menu4:hover{
+	background-color: purple;
+}
+.press{
+	background-color: #CEE7F9;
+}
+
+.intro{
+
+}
+.logo{
+	margin:auto;
+	display:block;
+}
+.rounded{
+	margin:auto;
+	display:block;
+    border-radius:50%;
+}
+#menu1 #menu2 #menu3 #menu4{
+	margin: 20px;
+}
+background-color: #E7E7E7;
+}
+.rounded{
+
+}
+
